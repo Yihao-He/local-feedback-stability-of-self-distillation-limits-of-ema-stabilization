@@ -1,0 +1,502 @@
+{
+  "feature_rows": 128,
+  "ordinary_rows": 64,
+  "arithmetic_rows": 64,
+  "f_empirical": 7559.992238503248,
+  "raw_privileged_cross_over_f": 0.07715036600898079,
+  "ratio_ema_grid": [
+    {
+      "target_c_over_f": 0.7,
+      "measured_c_over_f": 0.7000000000000001,
+      "gamma_on_privileged_middle_feature": 9.073190915497609,
+      "eta_f": 0.2,
+      "ema_mu": 0.0,
+      "local_spectral_radius": 0.9400000000000001,
+      "predicted_stable": true,
+      "student_teacher_trajectory": [
+        {
+          "step": 1,
+          "student_teacher_norm": 1.3293607486307096e-05
+        },
+        {
+          "step": 5,
+          "student_teacher_norm": 1.0378970219582481e-05
+        },
+        {
+          "step": 10,
+          "student_teacher_norm": 7.617167992521396e-06
+        },
+        {
+          "step": 20,
+          "student_teacher_norm": 4.10272180737193e-06
+        },
+        {
+          "step": 50,
+          "student_teacher_norm": 6.410732829440966e-07
+        }
+      ]
+    },
+    {
+      "target_c_over_f": 0.7,
+      "measured_c_over_f": 0.7000000000000001,
+      "gamma_on_privileged_middle_feature": 9.073190915497609,
+      "eta_f": 0.2,
+      "ema_mu": 0.9,
+      "local_spectral_radius": 0.9772039932780937,
+      "predicted_stable": true,
+      "student_teacher_trajectory": [
+        {
+          "step": 1,
+          "student_teacher_norm": 1.3680774831858027e-05
+        },
+        {
+          "step": 5,
+          "student_teacher_norm": 1.2244380735064329e-05
+        },
+        {
+          "step": 10,
+          "student_teacher_norm": 1.0846412630744685e-05
+        },
+        {
+          "step": 20,
+          "student_teacher_norm": 8.5979836207075e-06
+        },
+        {
+          "step": 50,
+          "student_teacher_norm": 4.304348281812519e-06
+        }
+      ]
+    },
+    {
+      "target_c_over_f": 0.7,
+      "measured_c_over_f": 0.7000000000000001,
+      "gamma_on_privileged_middle_feature": 9.073190915497609,
+      "eta_f": 0.2,
+      "ema_mu": 0.99,
+      "local_spectral_radius": 0.99708288810248,
+      "predicted_stable": true,
+      "student_teacher_trajectory": [
+        {
+          "step": 1,
+          "student_teacher_norm": 1.3720059620861712e-05
+        },
+        {
+          "step": 5,
+          "student_teacher_norm": 1.2734508153743031e-05
+        },
+        {
+          "step": 10,
+          "student_teacher_norm": 1.2205223097348237e-05
+        },
+        {
+          "step": 20,
+          "student_teacher_norm": 1.1717722874713811e-05
+        },
+        {
+          "step": 50,
+          "student_teacher_norm": 1.0720398093861702e-05
+        }
+      ]
+    },
+    {
+      "target_c_over_f": 0.9,
+      "measured_c_over_f": 0.9,
+      "gamma_on_privileged_middle_feature": 11.665531177068354,
+      "eta_f": 0.2,
+      "ema_mu": 0.0,
+      "local_spectral_radius": 0.9800000000000001,
+      "predicted_stable": true,
+      "student_teacher_trajectory": [
+        {
+          "step": 1,
+          "student_teacher_norm": 1.3859292911256333e-05
+        },
+        {
+          "step": 5,
+          "student_teacher_norm": 1.278337050145655e-05
+        },
+        {
+          "step": 10,
+          "student_teacher_norm": 1.1555154449466222e-05
+        },
+        {
+          "step": 20,
+          "student_teacher_norm": 9.441402480044501e-06
+        },
+        {
+          "step": 50,
+          "student_teacher_norm": 5.1501370058427405e-06
+        }
+      ]
+    },
+    {
+      "target_c_over_f": 0.9,
+      "measured_c_over_f": 0.9,
+      "gamma_on_privileged_middle_feature": 11.665531177068354,
+      "eta_f": 0.2,
+      "ema_mu": 0.9,
+      "local_spectral_radius": 0.9927198564163154,
+      "predicted_stable": true,
+      "student_teacher_trajectory": [
+        {
+          "step": 1,
+          "student_teacher_norm": 1.3987151246769302e-05
+        },
+        {
+          "step": 5,
+          "student_teacher_norm": 1.348951547064105e-05
+        },
+        {
+          "step": 10,
+          "student_teacher_norm": 1.2977631195319202e-05
+        },
+        {
+          "step": 20,
+          "student_teacher_norm": 1.2056726293582006e-05
+        },
+        {
+          "step": 50,
+          "student_teacher_norm": 9.683227261318246e-06
+        }
+      ]
+    },
+    {
+      "target_c_over_f": 0.9,
+      "measured_c_over_f": 0.9,
+      "gamma_on_privileged_middle_feature": 11.665531177068354,
+      "eta_f": 0.2,
+      "ema_mu": 0.99,
+      "local_spectral_radius": 0.9990349116448936,
+      "predicted_stable": true,
+      "student_teacher_trajectory": [
+        {
+          "step": 1,
+          "student_teacher_norm": 1.4000000142857143e-05
+        },
+        {
+          "step": 5,
+          "student_teacher_norm": 1.3654702865443983e-05
+        },
+        {
+          "step": 10,
+          "student_teacher_norm": 1.3461001060878241e-05
+        },
+        {
+          "step": 20,
+          "student_teacher_norm": 1.3279727255818195e-05
+        },
+        {
+          "step": 50,
+          "student_teacher_norm": 1.289505597572178e-05
+        }
+      ]
+    },
+    {
+      "target_c_over_f": 1.0,
+      "measured_c_over_f": 1.0000000000000002,
+      "gamma_on_privileged_middle_feature": 12.961701307853728,
+      "eta_f": 0.2,
+      "ema_mu": 0.0,
+      "local_spectral_radius": 1.0,
+      "predicted_stable": false,
+      "student_teacher_trajectory": [
+        {
+          "step": 1,
+          "student_teacher_norm": 1.4142135623730955e-05
+        },
+        {
+          "step": 5,
+          "student_teacher_norm": 1.4142135623730956e-05
+        },
+        {
+          "step": 10,
+          "student_teacher_norm": 1.4142135623730956e-05
+        },
+        {
+          "step": 20,
+          "student_teacher_norm": 1.4142135623730956e-05
+        },
+        {
+          "step": 50,
+          "student_teacher_norm": 1.4142135623730956e-05
+        }
+      ]
+    },
+    {
+      "target_c_over_f": 1.0,
+      "measured_c_over_f": 1.0000000000000002,
+      "gamma_on_privileged_middle_feature": 12.961701307853728,
+      "eta_f": 0.2,
+      "ema_mu": 0.9,
+      "local_spectral_radius": 1.0,
+      "predicted_stable": false,
+      "student_teacher_trajectory": [
+        {
+          "step": 1,
+          "student_teacher_norm": 1.4142135623730953e-05
+        },
+        {
+          "step": 5,
+          "student_teacher_norm": 1.4142135623730953e-05
+        },
+        {
+          "step": 10,
+          "student_teacher_norm": 1.4142135623730953e-05
+        },
+        {
+          "step": 20,
+          "student_teacher_norm": 1.4142135623730953e-05
+        },
+        {
+          "step": 50,
+          "student_teacher_norm": 1.4142135623730953e-05
+        }
+      ]
+    },
+    {
+      "target_c_over_f": 1.0,
+      "measured_c_over_f": 1.0000000000000002,
+      "gamma_on_privileged_middle_feature": 12.961701307853728,
+      "eta_f": 0.2,
+      "ema_mu": 0.99,
+      "local_spectral_radius": 1.0,
+      "predicted_stable": false,
+      "student_teacher_trajectory": [
+        {
+          "step": 1,
+          "student_teacher_norm": 1.4142135623730953e-05
+        },
+        {
+          "step": 5,
+          "student_teacher_norm": 1.4142135623730953e-05
+        },
+        {
+          "step": 10,
+          "student_teacher_norm": 1.4142135623730953e-05
+        },
+        {
+          "step": 20,
+          "student_teacher_norm": 1.4142135623730953e-05
+        },
+        {
+          "step": 50,
+          "student_teacher_norm": 1.4142135623730953e-05
+        }
+      ]
+    },
+    {
+      "target_c_over_f": 1.1,
+      "measured_c_over_f": 1.1000000000000003,
+      "gamma_on_privileged_middle_feature": 14.257871438639102,
+      "eta_f": 0.2,
+      "ema_mu": 0.0,
+      "local_spectral_radius": 1.02,
+      "predicted_stable": false,
+      "student_teacher_trajectory": [
+        {
+          "step": 1,
+          "student_teacher_norm": 1.4424978336205572e-05
+        },
+        {
+          "step": 5,
+          "student_teacher_norm": 1.5614060458412206e-05
+        },
+        {
+          "step": 10,
+          "student_teacher_norm": 1.723918441213712e-05
+        },
+        {
+          "step": 20,
+          "student_teacher_norm": 2.101446960365578e-05
+        },
+        {
+          "step": 50,
+          "student_teacher_norm": 3.806480295036986e-05
+        }
+      ]
+    },
+    {
+      "target_c_over_f": 1.1,
+      "measured_c_over_f": 1.1000000000000003,
+      "gamma_on_privileged_middle_feature": 14.257871438639102,
+      "eta_f": 0.2,
+      "ema_mu": 0.9,
+      "local_spectral_radius": 1.0070171222836555,
+      "predicted_stable": false,
+      "student_teacher_trajectory": [
+        {
+          "step": 1,
+          "student_teacher_norm": 1.4298265629089426e-05
+        },
+        {
+          "step": 5,
+          "student_teacher_norm": 1.4813654127542856e-05
+        },
+        {
+          "step": 10,
+          "student_teacher_norm": 1.5373200561704814e-05
+        },
+        {
+          "step": 20,
+          "student_teacher_norm": 1.649412078913704e-05
+        },
+        {
+          "step": 50,
+          "student_teacher_norm": 2.0344238057477885e-05
+        }
+      ]
+    },
+    {
+      "target_c_over_f": 1.1,
+      "measured_c_over_f": 1.1000000000000003,
+      "gamma_on_privileged_middle_feature": 14.257871438639102,
+      "eta_f": 0.2,
+      "ema_mu": 0.99,
+      "local_spectral_radius": 1.0009580469015134,
+      "predicted_stable": false,
+      "student_teacher_trajectory": [
+        {
+          "step": 1,
+          "student_teacher_norm": 1.4285657282743418e-05
+        },
+        {
+          "step": 5,
+          "student_teacher_norm": 1.4645605983779984e-05
+        },
+        {
+          "step": 10,
+          "student_teacher_norm": 1.4853854314309616e-05
+        },
+        {
+          "step": 20,
+          "student_teacher_norm": 1.5053406257864878e-05
+        },
+        {
+          "step": 50,
+          "student_teacher_norm": 1.549827073233039e-05
+        }
+      ]
+    },
+    {
+      "target_c_over_f": 1.3,
+      "measured_c_over_f": 1.3000000000000003,
+      "gamma_on_privileged_middle_feature": 16.850211700209847,
+      "eta_f": 0.2,
+      "ema_mu": 0.0,
+      "local_spectral_radius": 1.06,
+      "predicted_stable": false,
+      "student_teacher_trajectory": [
+        {
+          "step": 1,
+          "student_teacher_norm": 1.499066376115481e-05
+        },
+        {
+          "step": 5,
+          "student_teacher_norm": 1.8925367613564897e-05
+        },
+        {
+          "step": 10,
+          "student_teacher_norm": 2.532641100595524e-05
+        },
+        {
+          "step": 20,
+          "student_teacher_norm": 4.535574481171258e-05
+        },
+        {
+          "step": 50,
+          "student_teacher_norm": 0.0002605003199669779
+        }
+      ]
+    },
+    {
+      "target_c_over_f": 1.3,
+      "measured_c_over_f": 1.3000000000000003,
+      "gamma_on_privileged_middle_feature": 16.850211700209847,
+      "eta_f": 0.2,
+      "ema_mu": 0.9,
+      "local_spectral_radius": 1.0203817016047292,
+      "predicted_stable": false,
+      "student_teacher_trajectory": [
+        {
+          "step": 1,
+          "student_teacher_norm": 1.461381538134378e-05
+        },
+        {
+          "step": 5,
+          "student_teacher_norm": 1.621064814594561e-05
+        },
+        {
+          "step": 10,
+          "student_teacher_norm": 1.803828238779825e-05
+        },
+        {
+          "step": 20,
+          "student_teacher_norm": 2.2095210660651928e-05
+        },
+        {
+          "step": 50,
+          "student_teacher_norm": 4.0475314684780046e-05
+        }
+      ]
+    },
+    {
+      "target_c_over_f": 1.3,
+      "measured_c_over_f": 1.3000000000000003,
+      "gamma_on_privileged_middle_feature": 16.850211700209847,
+      "eta_f": 0.2,
+      "ema_mu": 0.99,
+      "local_spectral_radius": 1.0028536953840645,
+      "predicted_stable": false,
+      "student_teacher_trajectory": [
+        {
+          "step": 1,
+          "student_teacher_norm": 1.4576694961478753e-05
+        },
+        {
+          "step": 5,
+          "student_teacher_norm": 1.5695048350564673e-05
+        },
+        {
+          "step": 10,
+          "student_teacher_norm": 1.6357093782450423e-05
+        },
+        {
+          "step": 20,
+          "student_teacher_norm": 1.700981700904139e-05
+        },
+        {
+          "step": 50,
+          "student_teacher_norm": 1.85477937367448e-05
+        }
+      ]
+    }
+  ],
+  "cross_jacobian_finite_difference_checks": [
+    {
+      "target_c": 5291.994566952274,
+      "finite_difference_c": 5291.994566952275,
+      "relative_error": 1.7186236498665145e-16
+    },
+    {
+      "target_c": 6803.993014652923,
+      "finite_difference_c": 6803.993014652923,
+      "relative_error": 0.0
+    },
+    {
+      "target_c": 7559.992238503249,
+      "finite_difference_c": 7559.99223850325,
+      "relative_error": 1.20303655490656e-16
+    },
+    {
+      "target_c": 8315.991462353575,
+      "finite_difference_c": 8315.991462353577,
+      "relative_error": 2.1873391907391999e-16
+    },
+    {
+      "target_c": 9827.989910054224,
+      "finite_difference_c": 9827.989910054224,
+      "relative_error": 0.0
+    }
+  ],
+  "max_cross_jacobian_relative_error": 2.1873391907391999e-16
+}

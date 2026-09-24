@@ -18,6 +18,6 @@ The analysis writes compact CSV tables and a protocol record under `results/`.
 - `figures/`: compact-result and plotting scripts.
 - `results/source_gpu_summary.json`: only the derivatives, feedback grid, and recorded trajectories needed by the reanalysis script.
 
-No prompts, raw features, model weights, credentials, or machine paths are included. These files regenerate the reported local analyses and plots; they do not rerun frozen-model feature extraction.
 
-No reuse license has been assigned in this package. Add the authors' chosen license before public release.
+
+

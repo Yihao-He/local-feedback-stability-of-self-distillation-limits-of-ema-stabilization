@@ -1,4 +1,4 @@
-# Reproducibility files: Idea 5
+# Reproducibility files: 
 
 This package regenerates the CPU local-stability and finite-difference tables and both statistical plots from the compact recorded feature-experiment results. The CPU control uses the exact local model in the paper.
 
